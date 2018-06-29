@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <RecipeDef>
+    <defName>RefinePlasteel</defName>
+    <label>produce plasteel</label>
+    <description>Refine plasteel from chemfuel and steel.</description>
+    <jobString>Refine Plasteel</jobString>
+    <researchPrerequisite>TechPlasteelRefining</researchPrerequisite>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <effectWorking>Cremate</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <workAmount>4000</workAmount>
+    <workSkillLearnFactor>0.8</workSkillLearnFactor>
+    <unfinishedThingDef>UnfinishedComponent</unfinishedThingDef>
+    <recipeUsers>
+      <li>Refinery</li>
+    </recipeUsers>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Steel</li>
+          </thingDefs>
+        </filter>
+        <count>225</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Chemfuel</li>
+          </thingDefs>
+        </filter>
+        <count>100</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Steel</li>
+        <li>Chemfuel</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <Plasteel>50</Plasteel>
+    </products>
+    <skillRequirements>
+      <Crafting>10</Crafting>
+    </skillRequirements>
+    <workSkill>Intellectual</workSkill>
+  </RecipeDef>
+
+</Defs>

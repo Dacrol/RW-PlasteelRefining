@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Balanced Plasteel Refining</name>
+	<targetVersion>0.18.1722</targetVersion>
+	<author>Dacrol</author>       
+	<description>
+		Refine plasteel from steel and chemfuel after researching the technology.
+	</description>
+</ModMetaData>

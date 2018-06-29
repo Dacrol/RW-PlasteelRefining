@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ResearchProjectDef>
+		<defName>TechPlasteelRefining</defName>
+		<label>plasteel</label>
+		<description>Develops methods to refine steel and chemfuel into plasteel.</description>
+		<baseCost>4500</baseCost>
+		<techLevel>Spacer</techLevel>
+		<prerequisites>
+			<li>Refining</li>
+			<li>Machining</li>
+		</prerequisites>
+		<researchViewX>4.5</researchViewX>
+		<researchViewY>4</researchViewY>
+	</ResearchProjectDef>
+
+</Defs>
