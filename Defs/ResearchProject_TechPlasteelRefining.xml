@@ -4,7 +4,7 @@
 	<ResearchProjectDef>
 		<defName>TechPlasteelRefining</defName>
 		<label>plasteel refining</label>
-		<description>Develops methods to refine steel and chemfuel into plasteel.</description>
+		<description>Allows you to refine steel and chemfuel into plasteel.</description>
 		<baseCost>4500</baseCost>
 		<techLevel>Spacer</techLevel>
 		<prerequisites>
