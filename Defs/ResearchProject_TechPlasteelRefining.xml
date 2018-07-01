@@ -5,7 +5,7 @@
 		<defName>TechPlasteelRefining</defName>
 		<label>plasteel refining</label>
 		<description>Allows you to refine steel and chemfuel into plasteel.</description>
-		<baseCost>4500</baseCost>
+		<baseCost>4000</baseCost>
 		<techLevel>Spacer</techLevel>
 		<prerequisites>
 			<li>Refining</li>
