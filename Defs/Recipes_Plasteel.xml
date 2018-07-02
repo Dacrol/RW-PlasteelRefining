@@ -46,7 +46,7 @@
     <skillRequirements>
       <Crafting>10</Crafting>
     </skillRequirements>
-    <workSkill>Intellectual</workSkill>
+    <workSkill>Crafting</workSkill>
   </RecipeDef>
 
 </Defs>
