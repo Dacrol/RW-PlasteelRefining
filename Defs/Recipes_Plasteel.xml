@@ -10,7 +10,7 @@
     <workSpeedStat>CookSpeed</workSpeedStat>
     <effectWorking>Cremate</effectWorking>
     <soundWorking>Recipe_CookMeal</soundWorking>
-    <workAmount>4000</workAmount>
+    <workAmount>5000</workAmount>
     <workSkillLearnFactor>0.8</workSkillLearnFactor>
     <unfinishedThingDef>UnfinishedComponent</unfinishedThingDef>
     <recipeUsers>
