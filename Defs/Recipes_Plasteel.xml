@@ -14,7 +14,7 @@
     <workSkillLearnFactor>0.8</workSkillLearnFactor>
     <unfinishedThingDef>UnfinishedComponent</unfinishedThingDef>
     <recipeUsers>
-      <li>Refinery</li>
+      <li>BiofuelRefinery</li>
     </recipeUsers>
     <ingredients>
       <li>

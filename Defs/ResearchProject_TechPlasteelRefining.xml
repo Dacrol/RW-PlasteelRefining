@@ -8,7 +8,7 @@
 		<baseCost>4000</baseCost>
 		<techLevel>Spacer</techLevel>
 		<prerequisites>
-			<li>Refining</li>
+			<li>BiofuelRefining</li>
 			<li>Machining</li>
 		</prerequisites>
 		<researchViewX>4.5</researchViewX>
